@@ -1,5 +1,4 @@
 
-# Day-001_Basic-Logic
 # Day 1 — Basic Digital Logic
 
 ## Objective
