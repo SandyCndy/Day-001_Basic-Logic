@@ -77,7 +77,8 @@ endmodule
 
 ## Verification
 <img width="1919" height="880" alt="Screenshot 2026-08-21 151548" src="https://github.com/user-attachments/assets/a9b72995-79bd-4b41-a0d2-00dc814d5319" />
-``` TB
+
+```TB
 module day1tb;
 reg a;
 reg b;
@@ -106,8 +107,7 @@ initial begin // stimulus
  $dumpvars(0,day1tb);
  $monitor("a=%b b=%b y=%b", a,b,c);
  end 
- endmodule
-
+ endmodule 
 ```
 Tested all possible input combinations.
 
