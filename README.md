@@ -1,5 +1,5 @@
 
-# Day 1 — Basic Digital Logic
+# Day 1 — Basic Digital Logic(from now on i will write every single code by myself) no gpt
 
 ## Objective
 
