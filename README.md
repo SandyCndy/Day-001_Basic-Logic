@@ -107,6 +107,7 @@ initial begin // stimulus
  $monitor("a=%b b=%b y=%b", a,b,c);
  end 
  endmodule
+
 ```
 Tested all possible input combinations.
 
